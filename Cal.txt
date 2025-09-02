@@ -1,0 +1,4 @@
+Nombre,H2S08
+Pendiente,1.1228
+Ordenada,0.7751
+Fecha de calibración:2025-05-12
