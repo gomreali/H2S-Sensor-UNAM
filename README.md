@@ -68,7 +68,7 @@ The file must contain the following lines:
 
 This project was developed at the **Universidad Nacional Autónoma de México (UNAM)**,  
 **Instituto de Ciencias del Mar y Limnología (ICML)**, **Unidad Académica de Sistemas Arrecifales (UASA)**, Puerto Morelos, México,  
-with collaboration from the **University of Victoria, Canada**.
+This work was supported by the **Government of Canada’s New Frontiers in Research Fund (NFRF) (NFRF I-2023-00653)**
 
 We gratefully acknowledge the technical and logistical support provided by the UASA facilities and staff,  
 as well as the contributions of the sargassum cleanup workers in Puerto Morelos during field measurements.  
@@ -80,8 +80,8 @@ This work was partially supported by institutional research initiatives focused 
 
 If you use or modify this work, please cite the associated publication:
 
-> Gómez-Reali M. A., Pech Figueroa, Rosales-Fuerte, Rodríguez-Martínez.  
-> *Low-cost open-source H₂S sensor for monitoring exposure during Sargassum cleaning activities.*  
+> Rosales-Fuerte, Pech Figueroa, Rodríguez-Martínez, Gómez-Reali M. A.
+> *Design and validation of a low-cost portable hydrogen sulfide sensor for Sargassum cleanup exposure assessment.*  
 > Unpublished manuscript, 2025.
 > [GitHub repository](https://github.com/gomreali/H2S-Sensor-UNAM)
 
